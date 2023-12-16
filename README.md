@@ -1,1 +1,1 @@
-# Aplicativo Criado para poder Estudar o banco MMKV
+# Aplicativo Criado para poder Estudo do MMKV
